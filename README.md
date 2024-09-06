@@ -1,1 +1,1 @@
-# algotrading_IA
+# Algotrading_IA
