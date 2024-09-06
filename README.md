@@ -4,10 +4,9 @@ Este projeto utiliza uma rede neural LSTM (Long Short-Term Memory) para prever o
 
 ### Colabore Conosco!
 
-Curte nossos conteúdos? Então inscreva-se no nosso canal do YouTube e acompanhe de perto todas as novidades, dicas e atualizações que preparamos com muito carinho para você! Basta clicar aqui: [Tudo Mais Constante](https://www.youtube.com/@TudoMaisConstante).
+Curte nossos conteúdos? Então inscreva-se no nosso canal do YouTube e acompanhe de perto todas as novidades, dicas e atualizações que preparamos com muito carinho para você! Basta clicar aqui: [Tudo Mais Constante](https://www.youtube.com/channel/UCVOAEiukuYC2rnNO9ZCNHqQ?sub_confirmation=1).
 
 E não para por aí! No Instagram, estamos sempre postando conteúdos exclusivos e interagindo com nossa comunidade. Siga-nos agora mesmo em [@tmconstante](https://instagram.com/tmconstante) e fique por dentro de tudo!
-
 
 ## Objetivo
 
